@@ -1,0 +1,31 @@
+# Compiled binaries
+trap
+trap.exe
+*.out
+*.o
+*.obj
+
+# CUDA binaries
+*.cu.o
+*.cu.out
+*.ptx
+
+# Results / temporary files
+*.csv
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE files
+.vscode/
+.idea/
+
+# Build directories
+build/
+dist/
+Debug/
+Release/
+
+
