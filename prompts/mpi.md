@@ -1,4 +1,4 @@
-hey im starting the mpi part… how do i split the n values across ranks ? can u teach me its consfusing
+hey im starting the mpi part… how do i split the n values across ranks ? can u teach me its confusing
 
 bthis remainder thing when n not divisible… can u jus show me the logic
 
