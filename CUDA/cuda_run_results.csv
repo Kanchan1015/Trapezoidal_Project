@@ -1,0 +1,7 @@
+implementation,n,blocks,threadsPerBlock,result,time_s,compile_flags,run_command,notes
+CUDA,1000000,7813,128,1.999999999998,0.003732,-O2 -arch=sm_75,/content/Trapezoidal_Project/CUDA/trap_cuda 1000000 128,colab run
+CUDA,5000000,39063,128,2.000000000000,0.017799,-O2 -arch=sm_75,/content/Trapezoidal_Project/CUDA/trap_cuda 5000000 128,colab run
+CUDA,10000000,156250,64,2.000000000000,0.035320,-O2 -arch=sm_75,/content/Trapezoidal_Project/CUDA/trap_cuda 10000000 64,colab run
+CUDA,10000000,78125,128,2.000000000000,0.035322,-O2 -arch=sm_75,/content/Trapezoidal_Project/CUDA/trap_cuda 10000000 128,colab run
+CUDA,10000000,39063,256,2.000000000000,0.035305,-O2 -arch=sm_75,/content/Trapezoidal_Project/CUDA/trap_cuda 10000000 256,colab run
+CUDA,10000000,19532,512,2.000000000000,0.035316,-O2 -arch=sm_75,/content/Trapezoidal_Project/CUDA/trap_cuda 10000000 512,colab run

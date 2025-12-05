@@ -11,7 +11,7 @@ trap.exe
 *.ptx
 
 # Results / temporary files
-*.csv
+
 *.log
 
 # System files
