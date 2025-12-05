@@ -1,11 +1,3 @@
-MPI Trapezoidal Rule — Parallel Implementation
-Author: Manoj Anbalagan
-Assistance: ChatGPT (OpenAI)
-
-This folder contains the MPI version of the trapezoidal integration program.
-
----
-
 1. Compile
 
 ---

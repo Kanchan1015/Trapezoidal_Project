@@ -1,5 +1,4 @@
 // trapezoidal.c
-// Assistance: ChatGPT (OpenAI)
 
 #include <stdio.h>
 #include <math.h>
